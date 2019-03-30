@@ -1,4 +1,4 @@
-# L-system
+# L-system Fractals
 
 A MATLAB script is provided that plots fractal patterns expressed by [L-system](<https://en.wikipedia.org/wiki/L-system>) language. You can customize all of the input arguments in this program to plot any simple fractals supporting L-system language. 
 
